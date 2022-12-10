@@ -7,6 +7,7 @@ An AI that answers questions, by determining the most relevant document(s) using
 `$ python questions.py corpus`
 
 `output`:
+
 Query: What are the types of supervised learning?
 
 Types of supervised learning algorithms include Active learning , classification and regression.
